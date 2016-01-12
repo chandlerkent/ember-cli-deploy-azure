@@ -14,7 +14,7 @@
     "ember-cli-deploy-build": "0.1.0",
     "ember-cli-deploy-revision-data": "0.1.0",
     "ember-cli-deploy-azure-tables": "chandlerkent/ember-cli-deploy-azure-tables#patch-1",
-    "ember-cli-deploy-azure-blob": "0.1.1",
+    "ember-cli-deploy-azure-blob": "chandlerkent/ember-cli-deploy-azure-blob#master",
     "ember-cli-deploy-display-revisions": "0.1.0"
   },
   "devDependencies": {
